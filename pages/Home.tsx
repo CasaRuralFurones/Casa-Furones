@@ -84,7 +84,7 @@ const Home: React.FC = () => {
                   <p className="text-[10px] sm:text-xs text-gray-500 uppercase tracking-wider">Huéspedes Máx.</p>
                 </div>
                 <div className="border-l-4 border-[#4A5D4E] pl-4">
-                  <p className="text-2xl sm:text-3xl font-bold serif">6</p>
+                  <p className="text-2xl sm:text-3xl font-bold serif">4</p>
                   <p className="text-[10px] sm:text-xs text-gray-500 uppercase tracking-wider">Dormitorios En-Suite</p>
                 </div>
               </div>
