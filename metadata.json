@@ -1,0 +1,8 @@
+{
+  "name": "Casa Rural Furones - Reserva Directa",
+  "description": "Sitio web premium de reserva directa para Casa Rural Furones en los Montes de Málaga, Antequera. Diseño de lujo rústico con guía local y sistema de reservas.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
